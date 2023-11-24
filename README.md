@@ -7,8 +7,8 @@ I got my wallpaper from [this website](https://www.wallpaperflare.com/nord-theme
 ***DISCLAIMER***: The themes here are *strictly* nord-themed **only**.
 *under construction*
 
-**Wayland Compositor dotfiles**
+#**Wayland Compositor dotfiles**
 Hyprland: *under construction*
 
-**X11 Window Manager dotfiles**
+#**X11 Window Manager dotfiles**
 i3: *under construction*

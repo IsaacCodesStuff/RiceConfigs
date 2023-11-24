@@ -7,6 +7,9 @@ I got my wallpaper from [this website](https://www.wallpaperflare.com/nord-theme
 ***DISCLAIMER***: The themes here are *strictly* nord-themed **only**.
 *under construction*
 
+# Nerd Font Download:
+Ideally, use [this font](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.1.0/JetBrainsMono.zip) from [this website](https://www.nerdfonts.com/font-downloads). There are also a bunch more cool fonts available there, feel free to choose whatever font you like and switch it for the font that I use instead.
+
 # **Wayland Compositor dotfiles**
 Hyprland: *under construction*
 

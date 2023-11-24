@@ -1,2 +1,2 @@
-# RiceConfigs
-A repository for my configuration dotfiles (i3 window manager configuration and such) (currently empty at the moment)
+# Rice Configs
+A repository for my configuration dotfiles (window manager configurations and such) (currently hyprland config and wallpaper at the moment)
